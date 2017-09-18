@@ -26,9 +26,9 @@
     "benchmark": "node benchmark/"
   },
   "dependencies": {
-    "cluster-key-slot": "^1.0.5",
-    "denque": "^1.1.0",
-    "redis": "^2.6.0"
+    "cluster-key-slot": "^1.0.8",
+    "denque": "^1.2.2",
+    "redis": "^2.7.1"
   },
   "devDependencies": {
     "benchmark": "^2.1.1",
